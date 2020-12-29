@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-What's up! Fine I'm Gabriel Araujo.
+What's up! Fine, I'm Gabriel Araujo.
 
 - 🌱 I'm currently learning Swift and React Native.
 - ⚡ Little resume about me: I love technologies of the fantastic front end world, try use IOT in my life every moment, appreciate the products and design by Apple and I'm podcast lover.
