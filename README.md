@@ -16,12 +16,12 @@ What's up! Fine, I'm Gabriel Araujo.
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/-MacOSX-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbradoki&layout=compact&theme=dark)](https://github.com/gabrielbradoki/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielbradoki&layout=compact&theme=dark)](https://github.com/gabrielbradoki/github-readme-stats)
 
 
 #### How Find me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/gabrielbradoki)](https://github.com/gabrielbradoki)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/gabrielbradoki)](https://twitter.com/gabrielbradoki)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/_gaarauj)](https://twitter.com/_gaarauj)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nathallyccd@gmail.com)](mailto:gabrieel.arauj@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-monteiro-12094847/)](https://www.linkedin.com/in/gabriel-monteiro-12094847/)
 
